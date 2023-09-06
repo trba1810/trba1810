@@ -46,7 +46,7 @@
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png">
+        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
     </td>
 </tr>
 </table>
