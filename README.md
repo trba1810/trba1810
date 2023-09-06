@@ -3,7 +3,7 @@
 	
 - 👋 Hi, I’m Tomislav Trbic
 - 👀 I’m interested in ... Coding, Sports, TV Shows.
-- 🌱 I’m currently purseing ... Degree Engineering in Information technology.
+- 🌱 I’m currently purseing ... 3 year Degree in Information technology.
 - 💞️ I’m looking to collaborate on ... Web Development & Open Source.
 </div>
 
