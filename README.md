@@ -46,7 +46,7 @@
         <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg">
+        <img src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg">
     </td>
 </tr>
 </table>
