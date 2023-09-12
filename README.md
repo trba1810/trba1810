@@ -10,7 +10,7 @@
 <br>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trba1810&layout=compact&theme=dark" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trba1810&layout=compact&theme=great-gatsby" >
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=trba1810&layout=compact&theme=merko&show_icons=true&hide_border=false" >
 </div>
 
