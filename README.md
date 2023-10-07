@@ -1,5 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=trba1810&layout=compact&theme=gotham "  width="450">
-<div>
+
 	
 - 👋 Hi, I’m Tomislav Trbic
 - 👀 I’m interested in ... Coding, Sports, TV Shows.
