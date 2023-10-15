@@ -1,6 +1,6 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=trba1810&layout=compact&theme=gotham " width="450"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=trba1810&layout=compact&theme=gotham " width="450"> <div>
 
-<div>
+
 - 👋 Hi, I’m Tomislav Trbic
 - 👀 I’m interested in ... Coding, Sports, TV Shows.
 - 🌱 I’m currently purseing ... 3 year Degree in Information technology.
