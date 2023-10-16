@@ -3,14 +3,14 @@
 - 👀 I’m interested in ... Coding, Sports, TV Shows.
 - 🌱 I’m currently purseing ... 3 year Degree in Information technology.
 - 💞️ I’m looking to collaborate on ... Web Development & Open Source.
-<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/trba1810" alt="CoDiNg RocKs"  width="60%"/><br> 
+<img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/trba1810" alt="CoDiNg RocKs"  width="50%"/><br> 
 </div>
 
-<br/><br/><br/>
+<br>
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trba1810&layout=compact&theme=great-gatsby" >
-<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=trba1810&layout=compact&theme=merko&show_icons=true&hide_border=false" >
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=trba1810&layout=compact&theme=merko&show_icons=true&hide_border=false" >
 </div>
 
 <br><br>
