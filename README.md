@@ -1,6 +1,6 @@
 <div>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/trba1810" alt="CoDiNg RocKs"  width="60%"/><br> 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=trba1810&layout=compact&theme=gotham " width="450">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=trba1810&layout=compact&theme=gotham " width="450"/>
 
 
 - 👋 Hi, I’m Tomislav Trbic
