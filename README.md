@@ -6,7 +6,7 @@
 <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/trba1810" alt="CoDiNg RocKs"  width="60%"/><br> 
 </div>
 
-<br>
+<br/><br/><br/>
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trba1810&layout=compact&theme=great-gatsby" >
