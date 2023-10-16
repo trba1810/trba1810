@@ -1,8 +1,8 @@
 <div>
-    - 👋 Hi, I’m Tomislav Trbic
-- 👀 I’m interested in ... Coding, Sports, TV Shows.
-- 🌱 I’m currently purseing ... 3 year Degree in Information technology.
-- 💞️ I’m looking to collaborate on ... Web Development & Open Source.
+- 👋 Hi, I’m Tomislav Trbic <br>
+- 👀 I’m interested in ... Coding, Sports, TV Shows. <br>
+- 🌱 I’m currently purseing ... 3 year Degree in Information technology. <br>
+- 💞️ I’m looking to collaborate on ... Web Development & Open Source. <br>
 <img align="right" src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/trba1810" alt="CoDiNg RocKs"  width="50%"/><br> 
 </div>
 
